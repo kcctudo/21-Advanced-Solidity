@@ -20,6 +20,6 @@ The next image demonstates that token was successfully purchased.  The balance o
 
 The next image image demonstrate the functionality of token.renounceMinter() function.  The account 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4 has renounced its mintability and hence the error message "he transaction has been reverted to the initial state.
 Reason provided by the contract: "MinterRole: caller does not have the Minter role".
-Debug the transaction to get more information." when the account owner tried to mintl. 
-![alt text](https://github.com/kcctudo/21-Advanced-Solidity/blob/main/renounce.png). 
+Debug the transaction to get more information." when the account owner tried to mint. 
 
+![alt text](https://github.com/kcctudo/21-Advanced-Solidity/blob/main/renounce.png).
